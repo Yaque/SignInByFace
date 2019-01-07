@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">师大签到</string>
+    <string name="username">账号</string>
+    <string name="password">密码</string>
+    <string name="login">登录</string>
+    <string name="sign_in">签到</string>
+</resources>
